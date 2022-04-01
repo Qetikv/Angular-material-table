@@ -135,6 +135,9 @@
     "template-banana-in-box": true,
     "template-no-negated-async": true,
     "use-lifecycle-interface": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
     "use-pipe-transform-interface": true,
     "directive-selector": [
       true,
